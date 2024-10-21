@@ -12,7 +12,7 @@ The project investigates how the following factors affect SSD performance:
 
 ## Contents
 
-- `report.pdf`: The project report detailing the experiments and findings.
-- `scripts/`: Custom Python scripts used for simulating I/O operations and collecting data.
-- `figures/`: Graphs and figures generated from the experiments.
-- `README.md`: This file.
+- `ECSE_6320_PROJECT_3.pdf`: The project report detailing the experiments and findings.
+- `EXPERIMENT_1.py`: Python script for Experiment 1.
+- `EXPERIMENT_2.py`: Python script for Experiment 2.
+- `EXPERIMENT_3.py`: Python script for Experiment 3.
